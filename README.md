@@ -1,2 +1,1 @@
-# python and finance
-
+Hello anyone reading this, I am Dhairya. This repo is made for all the people who want to learn python but for finance prespective.
